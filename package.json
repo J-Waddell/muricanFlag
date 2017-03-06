@@ -1,0 +1,24 @@
+{
+  "name": "murican_flag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "string-length": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Waddell/muricanFlag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Waddell/muricanFlag/issues"
+  },
+  "homepage": "https://github.com/J-Waddell/muricanFlag#readme"
+}
